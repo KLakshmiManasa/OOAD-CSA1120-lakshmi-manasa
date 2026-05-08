@@ -1,2 +1,0 @@
-print("summa")
-print("urike")
